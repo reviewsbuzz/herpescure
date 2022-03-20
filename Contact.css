@@ -1,0 +1,155 @@
+.u-section-1 {
+  min-height: 663px;
+  background-image: none;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 {
+    min-height: 555px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 {
+    min-height: 100px;
+  }
+}.u-section-2 {
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 713px;
+}
+
+.u-section-2 .u-group-1 {
+  width: 835px;
+  min-height: 610px;
+  background-image: none;
+  margin: 52px auto;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 29px 30px 30px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 18px 0 0;
+}
+
+.u-section-2 .u-form-1 {
+  height: 395px;
+  width: 775px;
+  margin: 124px 0 0;
+}
+
+.u-section-2 .u-form-group-1 {
+  margin-left: auto;
+}
+
+.u-section-2 .u-label-1 {
+  font-weight: 700;
+}
+
+.u-section-2 .u-form-group-2 {
+  margin-left: auto;
+  margin-right: 0;
+}
+
+.u-section-2 .u-label-2 {
+  font-weight: 700;
+}
+
+.u-section-2 .u-form-group-3 {
+  margin-left: auto;
+}
+
+.u-section-2 .u-label-3 {
+  font-weight: 700;
+}
+
+.u-section-2 .u-form-group-4 {
+  margin-left: auto;
+}
+
+.u-section-2 .u-label-4 {
+  font-weight: 700;
+}
+
+.u-section-2 .u-form-group-5 {
+  margin-left: auto;
+}
+
+.u-section-2 .u-label-5 {
+  font-weight: 700;
+}
+
+.u-section-2 .u-form-group-6 {
+  margin-left: auto;
+}
+
+.u-section-2 .u-btn-1 {
+  font-size: 0.875rem;
+  margin-left: auto;
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: normal;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 588px;
+  }
+
+  .u-section-2 .u-text-1 {
+    text-transform: none;
+    font-weight: normal;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 450px;
+  }
+
+  .u-section-2 .u-group-1 {
+    width: 720px;
+  }
+
+  .u-section-2 .u-form-1 {
+    width: 660px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 338px;
+  }
+
+  .u-section-2 .u-group-1 {
+    width: 540px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-form-1 {
+    width: 520px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 213px;
+  }
+
+  .u-section-2 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-2 .u-form-1 {
+    width: 320px;
+  }
+}
